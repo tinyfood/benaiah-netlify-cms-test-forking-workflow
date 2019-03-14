@@ -1,8 +1,12 @@
-# Hugo template for Netlify CMS with Netlify Identity
+# Tiny Food Testing 009 
+## Hugo template for Netlify CMS with Netlify Identity
+
 
 This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
 
 ## Getting started
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d020487c-ef06-4d54-b5ec-fcf5e3d014ad/deploy-status)](https://app.netlify.com/sites/gallant-babbage-cf848a/deploys)
 
 Use our deploy button to get your own copy of the repository. 
 
